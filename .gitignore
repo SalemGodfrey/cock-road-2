@@ -7,4 +7,10 @@ dist/
 .env.local
 .DS_Store
 package-lock.json
+assets/*.png
+assets/*.atlas
+assets/*.json
+!assets/chiken.png
+phaser.js
+thumbnail.png
 

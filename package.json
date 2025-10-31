@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "vite": "^7.1.12"
+    "vite": "^7.1.12",
+    "vite-plugin-singlefile": "^2.3.0"
   },
   "scripts": {
     "dev": "vite",
@@ -8,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@esotericsoftware/spine-phaser": "^4.1.55"
+    "@esotericsoftware/spine-phaser": "^4.1.55",
+    "@vitejs/plugin-vue": "^6.0.1"
   }
 }
